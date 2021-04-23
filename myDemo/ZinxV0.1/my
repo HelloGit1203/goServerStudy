@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+    go run Client1.go &
+    sleep 1
+done
